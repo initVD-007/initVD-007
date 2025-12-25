@@ -66,10 +66,10 @@
   - Detects abusive and harmful content on social platforms  
 
 ---
+<div align="center">
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhybWdnMGR2bXpoYXlrZTN1MXpsd3YxNG52ZjQyNWF6Z2prMnU4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif">
+</div>
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhybWdnMGR2bXpoYXlrZTN1MXpsd3YxNG52ZjQyNWF6Z2prMnU4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif">
-
----
 
 <!-- DARK-MODE AWARE SNAKE IMAGE -->
 <picture>
@@ -104,21 +104,18 @@
 ---
 
 ## 🧩 Coding Profiles
-- 🧠 LeetCode: https://leetcode.com/yourusername  
-- ⚔️ CodeChef: https://www.codechef.com/users/yourusername  
-- 🏆 HackerRank: https://www.hackerrank.com/yourusername  
+- 🧠 LeetCode: https://leetcode.com/Vaidik_Pipaliya   
+- 🏆 HackerRank: https://www.hackerrank.com/vaidikpipaliya  
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vaidik-pipaliya/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:vaidikpipaliya@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@Vaidikpipaliya)
 
 ---
 
-## 📄 Resume
-[📥 Download Resume](https://drive.google.com)
 
 ---
 
