@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BBCA Student | Aspiring Software Engineer  
+- 🎓 MCA Student | Aspiring Software Engineer  
 - 💻 Python • Web Development • Backend  
 - 🌱 Currently learning Flask, ML basics & system design  
 - ⚡ Passionate about building real-world projects  
