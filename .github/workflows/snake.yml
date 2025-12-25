@@ -1,10 +1,13 @@
 name: Generate Snake
 
+# Allow the workflow to push to branches (needed for the push step)
+permissions:
+  contents: write
+
 on:
   # Run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *" 
-  
+    - cron: "0 0 * * *"
   # Allows you to manually run the job at any time from the Actions tab
   workflow_dispatch:
 
@@ -18,10 +21,23 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: initVD-007
+          # Use repository owner dynamically so the workflow is reusable
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=orange
             dist/snake-dark.svg?palette=github-dark&color_snake=orange
+
+      - name: List dist contents (debug)
+        run: |
+          echo "Listing generated files (dist):"
+          ls -la dist || true
+
+      - name: Fail if dist is empty
+        run: |
+          if [ ! -d dist ] || [ -z "$(ls -A dist 2>/dev/null)" ]; then
+            echo "No generated files found in dist. Aborting push."
+            exit 1
+          fi
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
