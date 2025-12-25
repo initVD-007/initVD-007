@@ -67,11 +67,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=initVD-007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=initVD-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=initVD-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=initVD-007&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=initVD-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=initVD-007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=initVD-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=initVD-007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
