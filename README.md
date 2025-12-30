@@ -119,6 +119,6 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
