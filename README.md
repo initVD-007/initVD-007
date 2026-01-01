@@ -109,7 +109,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me:-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vaidik-pipaliya/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:vaidikpipaliya@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@Vaidikpipaliya)
